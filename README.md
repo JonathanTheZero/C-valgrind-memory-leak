@@ -1,0 +1,1 @@
+To reporduce run the `make memoryCheck` command and look in the report generated in `./log.txt`.
